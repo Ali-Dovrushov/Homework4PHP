@@ -1,0 +1,3 @@
+Elmar|123456|user|
+Ali|123456|admin|
+Rufat|123456|manager|
